@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem 'github-pages'
 gem 'jekyll', '= 3.4.5' # locked in to be consistent GitHub Pages.
 gem 'jekyll-theme-simple-texture'
 
