@@ -15,11 +15,12 @@
 
 <body>
     <ul id="menu">
-        <li data-menuanchor="bio"><a href="#bio">Biography</a></li>
+        <li data-menuanchor="welcome"><a href="#welcome">Welcome</a></li>
+        <li data-menuanchor="bio"><a href="#bio">Introduction</a></li>
         <li data-menuanchor="social"><a href="#social">Social Links</a></li>
     </ul>
 
-    <div id="section0" class="section" data-name="bio">
+    <div id="section0" class="section" data-name="welcome">
 
         {% include common/notices.html %}
 
@@ -28,10 +29,22 @@
             {% if site.home.section2 %}{{ site.home.section2 }}{% endif %}
             {% if site.home.section3 %}{{ site.home.section3 }}{% endif %}
         </div>
+        <a class="btn-continue animated bounce" title="{{ site.data.i18n[site.lang].more }}" href="#bio"></a>
+    </div>
+
+    <div id="section1" class="section" data-name="bio">
+
+        <div class="headings animated fadeInLeft">
+            {% if site.home.section4 %}{{ site.home.section4 }}{% endif %}
+            <div class="text-box">
+                {% if site.home.section5 %}{{ site.home.section5 }}{% endif %}
+            </div>
+        </div>
+
         <a class="btn-continue animated bounce" title="{{ site.data.i18n[site.lang].more }}" href="#social"></a>
     </div>
 
-    <div id="section1" class="section" data-name="social">
+    <div id="section2" class="section" data-name="social">
         <h1 class="animated hidden">
             <a class="btn-enter btn-light" title="{{ site.data.i18n[site.lang].enter_blog }}" href="{{ site.paths.blog | relative_url }}">{{ site.data.i18n[site.lang].enter_blog }}</a>
         </h1>

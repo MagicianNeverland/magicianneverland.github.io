@@ -84,6 +84,10 @@ textarea {
 }
 
 #section1 {
+    background: url('../images/theme/noisy_texture_section0-200x200.png') repeat 0 0 #F0F0F0;
+}
+
+#section2 {
     background: url('../images/theme/noisy_texture_section1-200x200.png') repeat 0 0 #150E1F;
 }
 
@@ -97,6 +101,10 @@ textarea {
     }
 }
 
+.text-box {
+    margin-right: 30%;
+    margin-left: 30%;
+}
 
 .btn-light,
 .btn-dark {

@@ -24,19 +24,19 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
-keywords: 'jekyll,theme,gem-based,blog'
-author:
-  name:
-  job_title:
-  location:
-  email:
+title: Magician Neverland
+description: "Just for fun."
+keywords: 'jekyll,blog'
+author: 
+  name: Yang
+  job_title: none
+  location: Iserlohn
+  email: magicianneverland@gmail.com
   social_links:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/MagicianNeverland/magicianneverland.github.io
     - name: instagram
       url:
     - name: linkedin
@@ -48,18 +48,21 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Simple Texutre</h1>
-  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section1: <h1>Magician Neverland</h1>
+  section2: <h2>Just for fun.</h2>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/MagicianNeverland/magicianneverland.github.io" title="View on GitHub"></a></div>
+  section4: <h2>Introduction</h2>
+  section5: <h3>Hi! I am Yang.I built this site for recording my thoughts in daily life.If you have any questions or suggestions please contact me. Thanks a lot!</h3>
+
 blog:
   cc_license: # A link to CC License of your choice, e.g. http://creativecommons.org/licenses/by-sa/4.0/.
   cc_license_image: # An image of your CC License, e.g. /assets/images/theme/cc-by-sa.png
   footer_content: A gem-based responsive simple texture styled Jekyll theme.
 
 disqus:
-  shortname:
-  public_key:
-google_analytics:
+  shortname: magicianneverland
+  public_key: N1Q40rX3e5ZjDfMlsa84MjsBgJiJmz3MhNrLPAUOnDvxDcT9NZN1sWsjYqz2aOhr
+google_analytics: "UA-104442965-1"
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/
 
 paths:
