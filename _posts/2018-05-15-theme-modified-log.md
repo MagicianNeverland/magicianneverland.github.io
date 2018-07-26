@@ -7,6 +7,22 @@ tags: [blog, jekyll]
 redirect_from:
   - /2018/05/15/
 ---
+# 2018.07.26 update
+
+Finished：
+
+1.Added `_includes/helpers/categories_list_sp` for specical categories page, filtered the neverland part. Because of this change, modified `blog/categories/index.html`
+
+2.Modified `_includes/helpers/posts_collate` and filter the neverland part.
+
+3.Added `blog/neverland`
+
+To Do:
+
+1.Subtags didn't work
+
+2.readme.md
+
 
 # 2018.05.15 update
 

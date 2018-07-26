@@ -1,0 +1,28 @@
+---
+layout: page
+title: Subtags
+header: Posts By Subtags
+description: "This page shows a list of subtags used in this blog."
+group: navigation
+---
+{% capture subtags %}
+    {% for subtag in site.subtags %}
+        {{ subtag[0] | replace:' ','&#32;' }}
+    {% endfor %}
+{% endcapture %}
+
+{% assign sorted_subtags = subtags | split:' ' | sort %}
+
+<ul class="tag_box subtags inline">
+    {% assign subtags_list = sorted_subtags %}
+    {% include helpers/subtags_list %}
+</ul>
+
+{% for tag in sorted_subtags %}
+    {% assign actual_subtag_name = subtag | replace:'&#32;',' ' %}
+    <h3 id="{{ actual_subtag_name | replace:' ','-' | replace:'#','sharp' }}">{{ actual_subtag_name }}</h3>
+    <ul class="post-list">
+        {% assign pages_list = site.subtags[actual_subtag_name] %}
+        {% include helpers/pages_list %}
+    </ul>
+{% endfor %}

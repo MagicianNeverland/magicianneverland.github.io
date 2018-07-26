@@ -66,6 +66,9 @@ $('.unit-article').on('click', '.tag_box.categories a', function(event) {
 $('.unit-article').on('click', '.tag_box.tags a', function(event) {
     sendGaEvent('Blog', 'Click Tag', event.currentTarget);
 });
+$('.unit-article').on('click', '.tag_box.subtags a', function(event) {
+    sendGaEvent('Blog', 'Click Subtag', event.currentTarget);
+});
 $('.unit-article').on('click', '.comments .show-hidden', function(event) {
     sendGaEvent('Post', 'Show Comments', event.currentTarget);
 });

@@ -1,0 +1,21 @@
+---
+layout: page
+title: Neverland
+header: Yang's Neverland
+description: "This page shows a list of Yang's personal hobbies."
+group: navigation
+---
+<!--
+<li>
+    <a href="{{ site.paths.subtags | relative_url }}" title="subtags">
+    Subtags </a>
+</li>
+-->
+
+{% assign neverland_list = site.data.i18n[site.lang].neverland_list %}
+{% for neverland in neverland_list %} 
+    <li>
+        <a href="{{ site.paths.neverland | relative_url }}{{ site.data.i18n['en'].neverland_list[forloop.index0] | replace:'&','-' }}" title="{{ neverland }}">
+        {{ neverland }} </a>
+    </li>
+{% endfor %}

@@ -1,0 +1,12 @@
+---
+layout: page
+title: Book
+header: Book in Neverland
+description: "Sharing some opinions after reading."
+group: navigation
+---
+<h3 id="book">book</h3>
+<ul class="post-list">
+    {% assign pages_list = site.categories['book'] %}
+    {% include helpers/pages_list %}
+</ul>

@@ -70,3 +70,5 @@ paths:
   blog: /blog/
   categories: /blog/categories/
   tags: /blog/tags/
+  subtags: /blog/subtags/
+  neverland: /blog/neverland/

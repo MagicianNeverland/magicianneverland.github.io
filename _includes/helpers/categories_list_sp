@@ -1,0 +1,48 @@
+{% if categories_list.first[0] == null %}
+    {% for category in categories_list %} 
+
+        {% assign flag = true %}
+        {% for c in site.data.i18n['en'].neverland_categories %}
+            {% if category == c %}
+                {% assign flag = false %}
+            {% else %}
+                {% continue %}
+            {% endif %}
+        {% endfor %} 
+
+        {% if flag %}
+            <li>
+                <a href="{{ site.paths.categories | relative_url }}#{{ category | replace:' ','-' }}" title="{{ category | join: "/" }}">
+                {{ category | join: "/" }} <span>{{ site.categories[category].size }}</span></a>
+            </li>
+        {% else %}
+            {% continue %}
+        {% endif %}
+
+
+    {% endfor %}
+{% else %}
+    {% for category in categories_list %}
+
+        {% assign flag = true %}
+        {% for c in site.data.i18n['en'].neverland_categories %}
+            {% if category[0] == c %}
+                {% assign flag = false %}
+            {% else %}
+                {% continue %}
+            {% endif %}
+        {% endfor %} 
+
+        {% if flag %}
+            <li>
+                <a href="{{ site.paths.categories | relative_url }}#{{ category[0] | replace:' ','-' }}" title="{{ category[0] | join: "/" }}">
+                {{ category[0] | join: "/" }} <span>{{ category[1].size }}</span></a>
+            </li>
+        {% else %}
+            {% continue %}
+        {% endif %}
+
+    {% endfor %}
+{% endif %}
+
+{% assign categories_list = nil %}

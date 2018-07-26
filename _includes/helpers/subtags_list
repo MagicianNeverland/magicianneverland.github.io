@@ -1,0 +1,17 @@
+{% if subtags_list.first[0] == null %}
+    {% for subtag in subtags_list %}
+        {% assign actual_subtag_name = subtag | replace:'&#32;',' ' %}
+        <li>
+            <a href="{{ site.paths.subtags | relative_url }}#{{ actual_subtag_name | replace:' ','-' | replace:'#','sharp' }}" title="{{ actual_subtag_name }}">{{ actual_subtag_name }} <span>{{ site.subtags[actual_subtag_name].size }}</span></a>
+        </li>
+    {% endfor %}
+{% else %}
+    {% for subtag in subtags_list %}
+        {% assign actual_subtag_name = subtag[0] | replace:'&#32;',' ' %}
+        <li>
+            <a href="{{ site.paths.subtags | relative_url }}#{{ actual_subtag_name | replace:' ','-' | replace:'#','sharp' }}" title="{{ actual_subtag_name }}">{{ actual_subtag_name }} <span>{{ subtag[1].size }}</span></a>
+        </li>
+    {% endfor %}
+{% endif %}
+
+{% assign subtags_list = nil %}
