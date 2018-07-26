@@ -60,7 +60,7 @@ blog:
   footer_content: 有风自南，翼彼新苗
 
 disqus:
-  shortname: magicianneverland
+  shortname: MagicianNeverland
   public_key: N1Q40rX3e5ZjDfMlsa84MjsBgJiJmz3MhNrLPAUOnDvxDcT9NZN1sWsjYqz2aOhr
 google_analytics: "UA-104442965-1"
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/
