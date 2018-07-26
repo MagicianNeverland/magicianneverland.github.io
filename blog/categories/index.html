@@ -15,7 +15,7 @@ group: navigation
 
 <ul class="tag_box categories inline">
     {% assign categories_list = sorted_categories %}
-    {% include helpers/categories_list_sp %}
+    {% include helpers/categories_list_sp.html %}
 </ul>
 
 {% for category in sorted_categories %}
@@ -33,7 +33,7 @@ group: navigation
     <h3 id="{{ category | replace:' ','-' }}">{{ category }}</h3>
     <ul class="post-list">
         {% assign pages_list = site.categories[category] %}
-        {% include helpers/pages_list %}
+        {% include helpers/pages_list.html %}
     </ul>
     {% else %}
         {% continue %}

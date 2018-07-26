@@ -8,7 +8,7 @@ group: navigation
 <ul class="tag_box categories inline">
     {% assign categories_list = site.data.i18n['en'].n_mp %}
     {% assign categories_path = 'Music-Painting/' %}
-    {% include helpers/categories_list_neverland %}
+    {% include helpers/categories_list_neverland.html %}
 </ul>
 
 {% assign categories_list = site.data.i18n['en'].n_mp %}
@@ -16,6 +16,6 @@ group: navigation
 	<h3 id="{{ category }}">{{ category }}</h3>
     <ul class="post-list">
         {% assign pages_list = site.categories[category] %}
-    	{% include helpers/pages_list %}
+    	{% include helpers/pages_list.html %}
 	</ul>
 {% endfor %}
