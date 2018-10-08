@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "倾听莫扎特"
+title: "聆听莫扎特"
 description: "一个纯外行听众的瞎听随感"
 categories: [music]
 tags: [Mozart]
