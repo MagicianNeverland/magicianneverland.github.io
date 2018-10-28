@@ -111,6 +111,13 @@ redirect_from:
 于是听完这段，展览就结束了。真好！
 
 
+附录：（不保证长久之后的链接有效性）
+
+1. [110周年展官方网站介绍](http://kaii2018.exhn.jp/formation.html)
+
+2. [东京展的布展画作安排](http://kaii2018.exhn.jp/images/kaii_tokyo1024.pdf)，我看的是前半
+
+
 
 
 
