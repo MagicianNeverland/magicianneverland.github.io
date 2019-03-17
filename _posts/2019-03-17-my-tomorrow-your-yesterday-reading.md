@@ -112,3 +112,15 @@ redirect_from:
 ![出演场次及信息](/assets/images/post/20190317/20190317172211.jpg)
 
 （目前这些是能回忆起的部分，如果还有什么想到的，有缘再补充好了）
+
+相关网站：（不保证长久之后的链接有效性，存留用）
+
+1. [恋を読む「ぼくは明日、昨日のきみとデートする」官方网站](https://www.tohostage.com/bokuasu/index.html)
+
+2. [出演之后的合影](https://twitter.com/akiyamayuzuki/status/1105823837453615104)
+
+3. [细谷的出演感受相关采访](https://www.bs-log.com/20190307_1343140/)
+
+4. [秋山的出演感受相关采访](https://enterstage.jp/interview/2019/03/011540.html)
+
+
