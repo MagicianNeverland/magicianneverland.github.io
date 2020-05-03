@@ -2,7 +2,7 @@
 layout: post
 title: "The homework review for Andrew Ng's ML course"
 description: ""
-categories: [Machine Learning]
+categories: [MachineLearning]
 tags: [Octave]
 redirect_from:
   - /2020/05/03/
