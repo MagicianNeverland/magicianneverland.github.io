@@ -24,9 +24,16 @@ redirect_from:
 
 ### 新岁展庆帖，人来得书帖合卷
 
+{::comment}
 ![苏轼-新岁展庆帖](/assets/images/post/20201030/sushi_xinsuizhanqingtie.jpg)
 
 ![苏轼-人来得书帖](/assets/images/post/20201030/sushi_renlaideshutie.jpg)
+{:/comment}
+
+![苏轼-新岁展庆帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/sushi_xinsuizhanqingtie.jpg)
+
+![苏轼-人来得书帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/sushi_renlaideshutie.jpg)
+
 
 苏轼《新岁展庆帖，人来得书帖合卷》，行书
 
@@ -43,7 +50,7 @@ redirect_from:
 
 ### 题王诜诗帖
 
-![苏轼-题王诜诗帖](/assets/images/post/20201030/sushi_tiwangshenshitie.jpg)
+![苏轼-题王诜诗帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/sushi_tiwangshenshitie.jpg)
 
 苏轼《题王诜诗帖》，行书
 
@@ -54,7 +61,7 @@ redirect_from:
 
 ### 书和靖林处士诗后
 
-![苏轼-自书诗卷和诗](/assets/images/post/20201030/sushi_zishushijuanheshi.jpg)
+![苏轼-自书诗卷和诗](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/sushi_zishushijuanheshi.jpg)
 
 林逋《自书诗卷》+苏轼《书和靖林处士诗后》
 
@@ -66,7 +73,7 @@ redirect_from:
 
 ### 三马图赞并引
 
-![苏轼-三马图赞并引](/assets/images/post/20201030/sushi_sanmatuzanbingyin.jpg)
+![苏轼-三马图赞并引](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/sushi_sanmatuzanbingyin.jpg)
 
 苏轼《三马图赞并引》，行楷书
 
@@ -76,7 +83,7 @@ redirect_from:
 
 ### 治平帖
 
-![苏轼-治平帖](/assets/images/post/20201030/sushi_zhipingtie.jpg)
+![苏轼-治平帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/sushi_zhipingtie.jpg)
 
 苏轼《治平帖》，行书
 
@@ -87,7 +94,7 @@ redirect_from:
 
 ### 归院帖
 
-![苏轼-归院帖](/assets/images/post/20201030/sushi_guiyuantie.jpg)
+![苏轼-归院帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/sushi_guiyuantie.jpg)
 
 苏轼《归院帖》，行书
 
@@ -99,7 +106,7 @@ redirect_from:
 
 ### 春中帖
 
-![苏轼-春中帖](/assets/images/post/20201030/sushi_chunzhongtie.jpg)
+![苏轼-春中帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/sushi_chunzhongtie.jpg)
 
 苏轼《春中帖》，行书
 
@@ -110,7 +117,7 @@ redirect_from:
 
 ## 欧阳修
 
-![欧阳修-灼艾帖](/assets/images/post/20201030/ouyangxiu_zhuoaitie.jpg)
+![欧阳修-灼艾帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/ouyangxiu_zhuoaitie.jpg)
 
 欧阳修《灼艾帖》，行楷书
 
@@ -121,7 +128,7 @@ redirect_from:
 
 ## 蔡襄
 
-![蔡襄-京居帖](/assets/images/post/20201030/caixiang_jingjutie.jpg)
+![蔡襄-京居帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/caixiang_jingjutie.jpg)
 
 蔡襄《京居帖》，行草书
 
@@ -132,7 +139,7 @@ redirect_from:
 
 ## 黄庭坚
 
-![黄庭坚-君宜帖](/assets/images/post/20201030/huangtingjian_junyitie.jpg)
+![黄庭坚-君宜帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/huangtingjian_junyitie.jpg)
 
 黄庭坚《君宜帖》，行楷书
 
@@ -140,7 +147,7 @@ redirect_from:
 
 ## 米芾
 
-![米芾-盛制帖](/assets/images/post/20201030/mifu_shengzhitie.jpg)
+![米芾-盛制帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/mifu_shengzhitie.jpg)
 
 米芾《盛制帖》，行草书
 
@@ -148,7 +155,7 @@ redirect_from:
 
 ## 赵孟頫
 
-![赵孟頫-游道场山何山诗帖](/assets/images/post/20201030/zhaomengfu_youdaochangshanheshanshi.jpg)
+![赵孟頫-游道场山何山诗帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/zhaomengfu_youdaochangshanheshanshi.jpg)
 
 赵孟頫《游道场山何山诗帖》，行书
 
@@ -164,7 +171,7 @@ redirect_from:
 
 ## 鲜于枢
 
-![鲜于枢-苏轼海棠诗卷](/assets/images/post/20201030/xianyushu_haitangshi.jpg)
+![鲜于枢-苏轼海棠诗卷](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/xianyushu_haitangshi.jpg)
 
 鲜于枢《苏轼海棠诗卷》，行草书
 
@@ -172,7 +179,7 @@ redirect_from:
 
 ## 杨凝式
 
-![杨凝式-神仙起居法](/assets/images/post/20201030/yangningshi_shenxianqijufa.jpg)
+![杨凝式-神仙起居法](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/yangningshi_shenxianqijufa.jpg)
 
 杨凝式《神仙起居法》
 
@@ -182,19 +189,19 @@ redirect_from:
 
 ## 吕大防
 
-![吕大防-示问帖](/assets/images/post/20201030/lvdafang_shiwentie.jpg)
+![吕大防-示问帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/lvdafang_shiwentie.jpg)
 
 吕大防《示问帖》，行楷书
 
 ## 蒋之奇
 
-![蒋之奇-北客帖](/assets/images/post/20201030/jiangzhiqi_beiketie.jpg)
+![蒋之奇-北客帖](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/jiangzhiqi_beiketie.jpg)
 
 蒋之奇《北客帖》，行书
 
 ## 仇英
 
-![仇英-竹院品古图](/assets/images/post/20201030/qiuying_zhuyuanpingutu.jpg)
+![仇英-竹院品古图](https://raw.githubusercontent.com/MagicianNeverland/magicianneverland.github.io/master/assets/images/post/20201030/qiuying_zhuyuanpingutu.jpg)
 
 仇英《竹院品古图》
 
